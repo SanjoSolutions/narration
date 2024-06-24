@@ -6,4 +6,4 @@ Includes functionality to simultaneously show text and let it be spoken.
 
 An example can be found in `index.js` (together with `index.html`).
 
-[Demo (with spoken text)](https://sanjosolutions.github.io/narration/)
+[Demo (with spoken text, works in Google Chrome)](https://sanjosolutions.github.io/narration/)
